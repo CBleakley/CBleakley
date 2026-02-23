@@ -16,7 +16,7 @@ Trained a CNN for glyph recognition, an RNN seq2seq model for glyph transcriptio
 
 ### AI Speech & Language Therapist
 
-HackEurope 2026 project for Europe’s largest student hackathon. Built an agentic AI speech and language therapist for stroke rehabilitation using ElevenLabs voice cloning and a high-quality voice library to deliver therapy in a personalised accent. Grounded in academic research showing accent can influence stroke rehab outcomes.
+Project for HackEurope 2026, Europe’s largest student hackathon. Built an agentic AI speech and language therapist for stroke rehabilitation using ElevenLabs voice cloning and a high-quality voice library to deliver therapy in a personalised accent. Grounded in academic research showing accent can influence stroke rehab outcomes.
 
 :arrow_right: Repo: [hackeurope2026](https://github.com/slee7286/hackeurope2026)
 
