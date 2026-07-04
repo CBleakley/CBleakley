@@ -1,4 +1,4 @@
-## Hi I'm Conor Bleakley
+## :wave: Hi I'm Conor Bleakley
 
 ## About Me
 
@@ -19,6 +19,12 @@ Trained a CNN for glyph recognition, an RNN seq2seq model for glyph transcriptio
 Project for HackEurope 2026, Europe’s largest student hackathon. Built an agentic AI speech and language therapist for stroke rehabilitation using Claude agents and ElevenLabs voice library and voice cloning to deliver personalised therapy in a familiar accent. Grounded in academic research showing accent can influence stroke rehab outcomes.
 
 :arrow_right: Repo: [hackeurope2026](https://github.com/slee7286/hackeurope2026)
+
+### NLP Review Classification
+
+Analysed online product reviews using NLP and machine learning to predict customer sentiment and review helpfulness. The project used review text, star ratings, and helpfulness votes to clean and prepare the data, build classification models, and compare how well different approaches extracted insights from customer feedback.
+
+:arrow_right: Repo: [sentiment-analysis](https://github.com/CBleakley/sentiment-analysis)
 
 ### Other
 
